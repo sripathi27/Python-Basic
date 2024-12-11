@@ -1,6 +1,6 @@
 """
-print funtion is use for somthing disply on terminal
-len funtion is use for calculate eliment in string,list or somthing's have
+print function is use for somthing disply on terminal
+len function is use for calculate eliment in string,list or somthing's have
 """
 
 
@@ -21,7 +21,7 @@ X,Y,Z=10,15,20
 print(x,y,z,X,Y,Z)
 
 
-#Python is a case-sensitive language and len funtion
+#Python is a case-sensitive language and len function
 city="kandy"
 City="matale"
 citY="nuwaraeli"
