@@ -4,6 +4,7 @@ len function is use for calculate eliment in string,list or somthing's have
 """
 
 
+#how to print somethig
 print("hello world")
 print(1234)
 
